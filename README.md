@@ -12,6 +12,7 @@ npm i --save ant-design-vue@4.x
 
 Run the project:
 cd 'project-name'
+
 npm install 
 
 npm run dev
